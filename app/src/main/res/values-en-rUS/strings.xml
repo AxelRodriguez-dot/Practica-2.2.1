@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica2.2.1</string>
+    <string name="materia">Mobile Apps</string>
+    <string name="nombre" translatable="false">AXEL</string>
+    <string name="apellido" translatable="false">RODRIGUEZ</string>
+    <string name="snackbar_msg">Hello</string>
+    <string name="snackbar_action">Dismiss</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica2.2.1</string>
+    <string name="materia">" desenvolvimento de aplicações móveis"</string>
+    <string name="snackbar_msg">olá</string>
+    <string name="snackbar_action">remover</string>
+</resources>

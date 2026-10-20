@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica2.2.1</string>
+    <string name="materia">DESARROLLO DE APLICACIONES MOBILES</string>
+    <string name="nombre">AXEL</string>
+    <string name="apellido">RODRIGUEZ</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="bottom_app_bar">Texto de la bottom bar</string>
+    <string name="home_fab_text">Agregar</string>
+    <string name="snackbar_msg">Hola</string>
+    <string name="snackbar_action">Quitar</string>
+</resources>
